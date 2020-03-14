@@ -1,7 +1,14 @@
-.black{
-  height: 50px;
-  width: 50px;
-  background-color: burlywood;
+.green{
+  height: 150px;
+  width: 150px;
+  background-color: green;
+  float: left;
+  margin: 10px;
+}
+.red{
+  height: 150px;
+  width: 150px;
+  background-color: red;
   float: left;
   margin: 10px;
 }
